@@ -1,11 +1,12 @@
 body {
     background: #E6E6E6;
     font-family: Abel, sans-serif;
+    font-weight: bold;
 }
 
 h1, h2 {
     font-family: Anton, sans-serif;
-    font-weight: bold;
+    font-weight: bolder;
 }
 
 .logo {
@@ -37,4 +38,19 @@ h1, h2 {
 .host {
     background-color: #00ABA9;
 
+}
+.card-image{
+    padding: 6px;
+    background-color: #F0F0F0;
+}
+.card{
+    background-color: #E6E6E6;
+    border: none;
+}
+.icon-small {
+    margin: 1vw;
+    padding: 1vw;
+    font-weight: 950;
+    border-radius: 50%;
+    font-family: Anton, sans-serif;
 }
