@@ -1,0 +1,40 @@
+body {
+    background: #E6E6E6;
+    font-family: Abel, sans-serif;
+}
+
+h1, h2 {
+    font-family: Anton, sans-serif;
+    font-weight: bold;
+}
+
+.logo {
+    height: 50px
+}
+
+.icon-large {
+   border: solid 8px white;
+    color: white;
+    font-weight: 950;
+    border-radius: 50%;
+    font-family: Anton, sans-serif;
+}
+
+.design {
+    background-color: #E6563B;
+}
+
+.develop {
+    background-color: #EB9D3A;
+
+}
+
+.support {
+    background-color: #7CB06C;
+
+}
+
+.host {
+    background-color: #00ABA9;
+
+}
